@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571178523 source:c:\users\user\desktop\punto 1\punto1lib.c
+	"punto1Lib.h"
+
+1571178475 c:\users\user\desktop\punto 1\punto1lib.h
+
+1571178648 source:c:\users\user\desktop\punto 1\punto1main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"punto1Lib.h"
+
