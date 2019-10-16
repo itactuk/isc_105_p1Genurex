@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571185203 source:c:\users\user\desktop\punto 3\punto3lib.c
+	"punto3Lib.h"
+
+1571186050 c:\users\user\desktop\punto 3\punto3lib.h
+
+1571185360 source:c:\users\user\desktop\punto 3\punto3main.c
+	<stdio.h>
+	<stdlib.h>
+	"punto3Lib.h"
+
